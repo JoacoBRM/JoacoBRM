@@ -9,7 +9,6 @@ I'm a passionate **Computer Systems Engineering student** from Ecuador 🇪🇨,
 - 👯 I'm open to collaborating on **open source projects** and innovative web apps.
 - 💬 Ask me about programming logic, object-oriented programming, or anything tech-related!
 - 📫 How to reach me: jbrm2601@gmail.com
-- ⚡ Fun fact: I enjoy taking part in hackathons and always seek to learn by doing.
 
 ### 🛠️ Tech Stack
 - **Languages**: Java, Python, JavaScript, SQL
